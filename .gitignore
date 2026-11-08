@@ -1,0 +1,34 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Compiled objects & libraries
+*.o
+*.so
+*.dylib
+*.ko
+
+# Generated Logs
+*.log
+logs/
+
+# Heavy Binary Documents & PDFs (Kept locally per project discipline)
+*.pdf
+Kinh_Thanh_Linux_SecOps_Tap1_350_Trang.pdf
+Kinh_Thanh_Linux_SecOps_Tap2_350_Trang.pdf
+
+# OS & Editor temporary files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
